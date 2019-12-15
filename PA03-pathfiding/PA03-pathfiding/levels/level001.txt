@@ -1,0 +1,35 @@
+20 20
+perlin 3 3 cubic 1 0.1 blend imgs/grass2.png imgs/water.jpeg
+
+Objects
+b imgs/fish.png 0.0 0.045
+t imgs/cattower.png 0.0 0.17
+w imgs/mice.png 0.0 0.07
+
+Characters
+z imgs/human.png 0.06
+k imgs/dog.png  0.1
+d imgs/cat.png 0.03
+
+
+World
+dooooooooooobooookoo
+ooooowoooooooooooooo
+oboooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooowoooooooooooboooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+ooooooookooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooooooooooooooooooo
+oooboooooooooooooooo
+oooooooooooooowooooo
+oooooooooooooooooooo
+tooooooooooooooozooo
+oooooooooooooooooooo
+oooooooooooooooooooo
